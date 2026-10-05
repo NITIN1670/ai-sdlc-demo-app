@@ -1,7 +1,5 @@
 # UC-1: Bulk invoice approval
 
-Used in: Spec Kit demo (Demo 8) and BMAD demo (Demo 10).
-
 ## Background
 
 Finance operations approvers open every pending invoice one at a time. For a school district with 40 invoices in a batch, that is 40 separate approvals.

@@ -1,6 +1,5 @@
 # UC-2: Partial approval
 
-Used in: OpenSpec demo (Demo 9).
 
 ## Background
 
